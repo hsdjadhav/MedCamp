@@ -1,0 +1,2 @@
+# MedCamp
+Meditation Camps project
